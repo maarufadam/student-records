@@ -1,6 +1,6 @@
 # student_records
 
-A new Flutter project.
+A new Flutter project for adding and saving students PII.
 
 ## Getting Started
 
